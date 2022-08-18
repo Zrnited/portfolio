@@ -1,2 +1,3 @@
-# portfolio
-A simple portfolio website
+# Getting Started with Create React App
+
+A Simple Portfolio Website created with React.JS.
